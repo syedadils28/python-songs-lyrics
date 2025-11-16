@@ -1,6 +1,8 @@
 # 🎤 Lyrics in Python
 
-This project is a **Python-based karaoke-style lyric display**. It prints lyrics character-by-character with different speeds to create an animated typing effect.
+> **If you want to impress anyone using animated lyrics, try this project.**
+
+    It shows lyrics with a typing animation.
 
 
 ## 📌 Features
@@ -12,6 +14,13 @@ This project is a **Python-based karaoke-style lyric display**. It prints lyrics
 
 ---
 
+## 📝 Code Explanation
+- `lyrics1` to `lyrics5` — Different sections of the song
+- `display_lyricsX()` functions — Control animation speed
+- `clear_screen()` — Clears terminal before starting
+- Main block runs all lyric parts in sequence
+
+---
 ## 🖥️ How It Works
 The script uses:
 - `time.sleep()` to control typing speed
@@ -31,24 +40,6 @@ python filename.py
 
 ---
 
-## 📂 Project Structure
-```
-│
-├── pal pal.py   # python file
-├── Sahiba.py    # python file
-└── README.md    # Project documentation
-```
-
----
-
-## 📝 Code Explanation
-- `lyrics1` to `lyrics5` — Different sections of the song
-- `display_lyricsX()` functions — Control animation speed
-- `clear_screen()` — Clears terminal before starting
-- Main block runs all lyric parts in sequence
-
----
-
 ## ✨ Preview of Animation
 When you run the script, lyrics appear like this:
 ```
@@ -57,6 +48,14 @@ Sahiba, aaye ghar kaahe na?
 (Animated typing effect)
 
 ---
+
+## 📂 Project Structure
+```
+│
+├── pal pal.py   # python file
+├── Sahiba.py    # python file
+└── README.md    # Project documentation
+```
 
 ## 📜 License
 This project is free to use. Modify it however you like!
