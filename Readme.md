@@ -1,4 +1,4 @@
-# 🎤 Sahiba Karaoke Lyrics in Python
+# 🎤 Lyrics in Python
 
 This project is a **Python-based karaoke-style lyric display**. It prints lyrics character-by-character with different speeds to create an animated typing effect.
 
@@ -34,8 +34,9 @@ python filename.py
 ## 📂 Project Structure
 ```
 │
-├── lyrics_script.py   # Your main python file
-└── README.md          # Project documentation
+├── pal pal.py   # python file
+├── Sahiba.py    # python file
+└── README.md    # Project documentation
 ```
 
 ---
@@ -51,7 +52,7 @@ python filename.py
 ## ✨ Preview of Animation
 When you run the script, lyrics appear like this:
 ```
-S a h i b a ,   a a y e   g h a r   k a a h e   n a ?
+Sahiba, aaye ghar kaahe na?
 ```
 (Animated typing effect)
 
@@ -63,7 +64,7 @@ This project is free to use. Modify it however you like!
 ---
 
 ## ❤️ Author
-Created with love by **Syed Adil**.
+Created with love by **SA Coder**.
 
 If you want improvements or more song lyrics, feel free to ask!
 
