@@ -1,6 +1,6 @@
 # 🎤 Lyrics in Python
 
-> **If you want to impress anyone using animated lyrics, try this project.**
+### **If you want to impress anyone using animated lyrics, try this project.**
 
     It shows lyrics with a typing animation.
 
